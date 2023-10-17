@@ -1,0 +1,31 @@
+/* Styles for the body element */
+body {
+    background-color: #f0f0f0; /* Set your desired background color */
+    color: #333; /* Set your desired text color */
+    font-family: Arial, sans-serif; /* Choose a suitable font */
+}
+
+/* Styles for the navigation (nav) element */
+nav {
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+/* Styles for the footer element */
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+
+/* Styles for an element with the ID "memeImage" */
+#memeImage {
+    margin-right: 200px;
+}
+
+/* Styles for the header element */
+header {
+    text-align: center;
+}
